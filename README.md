@@ -43,10 +43,21 @@ RegisterNumber:
 
 ![image](https://github.com/ARJUN19122004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119429483/6a2754c0-ba1e-4392-bae3-6785e239d5b6)
 
+6.Array values of Y test
 
+![image](https://github.com/ARJUN19122004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119429483/b2ffaeac-8a6f-4dd6-a924-d0281225adf6)
 
+7.Training Set Graph
 
+![image](https://github.com/ARJUN19122004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119429483/1d570b06-4905-48f6-9e67-e9888bab1b2a)
 
+8.Test Set Graph
+
+![image](https://github.com/ARJUN19122004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119429483/0e33ead9-327e-47ff-9afa-0713f8895b6d)
+
+9.Values of MSE, MAE and RMSE
+
+![image](https://github.com/ARJUN19122004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119429483/3cff30f6-5e80-4013-b71d-691f6a4e5906)
 
 
 ## Result:
