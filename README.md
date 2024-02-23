@@ -23,7 +23,14 @@ RegisterNumber:
 ```
 
 ## Output:
+1.df.head()
+
 ![image](https://github.com/ARJUN19122004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119429483/4347ec84-8cfd-4722-8707-442b74ed84db)
+
+2.df.tail()
+
+![image](https://github.com/ARJUN19122004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119429483/b3b57e12-c29c-4470-ba57-9154e6e307e3)
+
 
 
 
