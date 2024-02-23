@@ -31,6 +31,21 @@ RegisterNumber:
 
 ![image](https://github.com/ARJUN19122004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119429483/b3b57e12-c29c-4470-ba57-9154e6e307e3)
 
+3.Array Value of X
+
+![image](https://github.com/ARJUN19122004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119429483/68130589-41ea-46d8-8cf2-c4bbcd18109e)
+
+4.Array Value of Y
+
+![image](https://github.com/ARJUN19122004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119429483/23b868d2-50f3-4830-9d61-f87da1174b64)
+
+5.Values of Y prediction
+
+![image](https://github.com/ARJUN19122004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119429483/6a2754c0-ba1e-4392-bae3-6785e239d5b6)
+
+
+
+
 
 
 
